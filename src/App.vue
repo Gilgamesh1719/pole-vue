@@ -1,7 +1,8 @@
 <template>
   <head>
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-  <object data="" type=""></object></head>
+  </head>
+  <object data="" type=""></object>
   <div class="app-container">
     <h1>Покемон Иерархия</h1>
     <div class="main-content">
